@@ -6,8 +6,8 @@ import Footer from '@/components/Footer';
 import { ClerkProvider } from '@clerk/nextjs';
 
 export const metadata: Metadata = {
-  title: 'Travel',
-  description: 'Travel UI/UX App for Camping',
+  title: 'Guardio',
+  description: 'Your Personal Safety Companion App',
 }
 
 export default function RootLayout({
