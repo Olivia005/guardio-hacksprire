@@ -40,7 +40,7 @@ const Navbar = () => {
     );
   };
   return (
-    <nav className="z-50 fixed w-full bg-transparent py-2">
+    <nav className="z-50 fixed w-full bg-white py-2 border-b border-gray-200">
       <div className="container mx-auto flex items-center justify-between py-5 px-8">
         <Link href="/" className="flex items-center gap-2">
           <span className="text-2xl font-bold text-green-600">
