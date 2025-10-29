@@ -9,9 +9,9 @@ const GetApp = () => {
       <div className="relative flex w-full flex-col justify-between gap-32 overflow-hidden bg-green-700 bg-[url('/pattern.png')] bg-cover bg-center bg-no-repeat px-1 py-12 text-white sm:flex-row sm:gap-12 sm:py-24 lg:px-5 xl:max-h-[598px] 2xl:rounded-[20px] mx-50 sm:mx-6 lg:mx-25">
         <div className="z-20 flex w-full flex-1 flex-col items-start justify-center gap-12 ml-20">
           <h2 className="font-bold text-5xl lg:bold-64 xl:max-w-[320px]">
-            Get for free now!
+            Download Guardio Now!
           </h2>
-          <p className="text-3xl text-gray-10">Available on iOS and Android</p>
+          <p className="text-3xl text-gray-10">Your safety companion - Available on iOS and Android</p>
           <div className="flex w-full flex-col gap-3 whitespace-nowrap xl:flex-row">
             <Button
             size="lg"
